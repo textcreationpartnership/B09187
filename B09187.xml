@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegy upon his honoured friend Mr. James Herewyn, unfortunately slain by a fall from his horse</title>
+            <author>Godschalck, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09187</idno>
+            <idno type="STC">Wing G964AB</idno>
+            <idno type="STC">ESTC R188830</idno>
+            <idno type="EEBO-CITATION">64551292</idno>
+            <idno type="OCLC">ocm 64551292</idno>
+            <idno type="VID">184591</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09187)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184591)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2867:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegy upon his honoured friend Mr. James Herewyn, unfortunately slain by a fall from his horse</title>
+                  <author>Godschalck, James.</author>
+                  <author>Godschalck, James. Acrostich upon Mr. James Herewyn, merchant.</author>
+                  <author>Sweeting, John, fl. 1650. Upon the unfortunate death of Mr. James Herrewyn merchant, by a fall from a horse.</author>
+                  <author>Godschalck, James. We need no supr, or mettl'd horse.</author>
+                  <author>Sweeting, John, fl. 1650. To Mr. Herrewyns friends.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>In verse.</note>
+                  <note>Includes five elegiac poems inside border signed by James Godschalck and John Sweeting.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+                  <note>An elegy upon his honoured friend Mr. James Herrewyn unfortunately slain by a fall from his horse / James Godschalck -- An acrostich upon Mr. James Herewyn, merchant / James Godschalck -- Upon the unfortunate death of Mr. James Herrewyn merchant, by a fall from a horse / John Sweeting -- We need no supr,or mettl'd horse / I. G. -- To Mr. Herrewyns friends / I. S.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Herrewyn, James --  Death and burial.</term>
+               <term>Elegiac poetry, English --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:184591:1"/>
+            <head>An Elegy upon his honoured friend Mr. <hi>James Herrewyn,</hi> unfortunately ſlain by a fall from his Horſe.</head>
+            <l>
+               <seg rend="decorInit">W</seg>Ho can Epitomize with Curious Eye,</l>
+            <l>Man in his End-leſſe travels? and deny,</l>
+            <l>That Pleaſing madneſſe mortalls doth affect?</l>
+            <l>Who graſping ſhadows, ſubſtance do neglect:</l>
+            <l>Some, onely zealous riches to acqueſt,</l>
+            <l>And of a vaſt Eſtate to be poſſeſt,</l>
+            <l>Conſume in care their Precious, Haſtning Dayes,</l>
+            <l>Eſteeming wealth and gold ſufficient Praiſe,</l>
+            <l>And guerdon of their labours: whilſt they merit,</l>
+            <l>Not what themſelves, but others doe inherit:</l>
+            <l>Others purſue variety of Pleaſures,</l>
+            <l>As onely <hi>ſumma Bona,</hi> chiefeſt Treaſures:</l>
+            <l>Yet could the proudeſt Ep cure ne're finde,</l>
+            <l>To ſatiate in theſe, his reſt-leſſe minde.</l>
+            <l>Not few, (yet ſomething nobler) ſpend their Time,</l>
+            <l>Aſpiring Honours ſlippery mount to clime;</l>
+            <l>Vulgar applauſe affecting, courting glory,</l>
+            <l>Ambitious to ſurvive in long liv'd ſtory:</l>
+            <l>Thus they applaud themſelves, &amp; dote, whil'ſt they,</l>
+            <l>Soone (as their frothy Titles) paſſe away.</l>
+            <l>Were Riches; Pleaſures, Honours Bleſt Eſtate,</l>
+            <l>Free from the Lawes of all-controuling Fate,</l>
+            <l>Or were the Proud Poſſeſſors ſo ſublime,</l>
+            <l>As'bove the Reach of all devouring Time:</l>
+            <l>Could we ſecure our ſelves in the fruition</l>
+            <l>Of theſe ſub-lunar goods: were our Condition</l>
+            <l>Immutable, or we Immortall: then,</l>
+            <l>'T ſhould be the taske of my unworthy Pen,</l>
+            <l>To write encomium's on the ſtate of man:</l>
+            <l>But ſince tis no ſuch matter: oh! who can</l>
+            <l>Account them wiſe, or ſound in wits, who deem,</l>
+            <l>Ought in this wretched world worth our eſteem?</l>
+            <l>Can ſtore of Gold, or Silver, bribe the Hand</l>
+            <l>Of unrelenting <hi>Mors,</hi> or Countermand</l>
+            <l>His fatall ſtroke? can Oceans of Pleaſure,</l>
+            <l>Protract our dayes? or adde ought to the meaſure</l>
+            <l>Of our Prefixed Houre? can Blooming age,</l>
+            <l>Or ſmooth-fac'd youth, entreat, perſwade, engage</l>
+            <l>The Three-fold ſiſters to prolong their twine?</l>
+            <l>Should Temperance with propitious Nature joine</l>
+            <l>To ſave one wight, or ſue a full Diſcharge,</l>
+            <l>From paſſing <hi>Lethe's</hi> lake in <hi>Charon's</hi> Barge,</l>
+            <l>'Twere vain: too ſad an inſtance here we finde,</l>
+            <l>Our <hi>Herrewyn's</hi> gone! in Him they all combin'd:</l>
+            <l>Wealth, vertues, youth, what not? nor can our griefe</l>
+            <l>Revert his fate, or render us Relief.</l>
+            <l>A ſad Cataſtrophe—In natures Courſe,</l>
+            <l>Scarce Half-way run: yet forced to unhorſe.</l>
+            <l>Injurious Fates! eclipſe this riſing light,</l>
+            <l>Before his noon, and far from thoughts of night:</l>
+            <l>Thrice Happy Hee: who dy'd though few of years,</l>
+            <l>Fuller of vertues, then His friends of Tears.</l>
+            <bibl>
+               <hi>James Godschalck.</hi>
+            </bibl>
+         </div>
+         <div type="acrostic_poem">
+            <head>An Acroſtich upon Mr. <hi>James Herewyn,</hi> Merchant.</head>
+            <l>
+               <hi>J</hi>nto this vale of Tears, this World, We have</l>
+            <l>
+               <hi>A</hi>n onely Paſſage: to the ſilent grave,</l>
+            <l>
+               <hi>M</hi>ore then ten thouſand Paths, and differing Wayes.</l>
+            <l>
+               <hi>E</hi>xamples too too many, theſe Worſt dayes</l>
+            <l>
+               <hi>S</hi>howre thick upon us: Some like fruits unripe</l>
+            <l>
+               <hi>H</hi>arſh accidents (as Storms) from hence doe gripe:</l>
+            <l>
+               <hi>E</hi>xceſſive numbers gentler, lingring Pain</l>
+            <l>
+               <hi>R</hi>educeth (whence at firſt) to Duſt again.</l>
+            <l>
+               <hi>E</hi>v'n the choice Sports, and Pleaſures oft doe bring,</l>
+            <l>
+               <hi>W</hi>hat there we leaſt expect, a deadly Sting:</l>
+            <l>
+               <hi>I</hi>t is no Paradox: Lo Here! a Wight doth lye</l>
+            <l>
+               <hi>N</hi>ow ſleeping: Loved Horſes, and by Horſe did dye.</l>
+            <closer>
+               <signed>James Godschalck.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <head>
+               <g ref="char:V">Ʋ</g>pon the <g ref="char:V">Ʋ</g>nfortunate Death of Mr. <hi>James Herrewyn</hi> Merchant, by a fall from a Horſe.</head>
+            <l>I could lament thee, Merchant; but to grieve</l>
+            <l>Would doe thy Friends no good, nor thee relieve</l>
+            <l>Out of the ſnares of death; but yet i'le tell</l>
+            <l>The World how hard thy fate did with thee deal:</l>
+            <l>A Debt thou didſt him owe; 'tis very true;</l>
+            <l>But now to call for't, though 'twere alwayes due,</l>
+            <l>Seemes very hard; fifty years hence I ſhould</l>
+            <l>Have thought good payment; I am ſure, death could</l>
+            <l>Have had a little patience, and have ſtaid,</l>
+            <l>Conſidering what large ſums the ſword has paid:</l>
+            <l>He might have ſent him notice by his thin</l>
+            <l>Fac'd Sergeant, ſickneſſe, and have warn'd him in,</l>
+            <l>To put in Bail; but for to Hurry him hence</l>
+            <l>A Horſeback; and baſely throw him thence</l>
+            <l>Into a ſilent Priſon; all this done,</l>
+            <l>In the non-change-time of his age, is th' ſumme</l>
+            <l>Of Cruelty, and could not be paſt by,</l>
+            <l>With Patience; but that neceſſity</l>
+            <l>Compels. Well! ſeeing 'tis ſo, were all as I,</l>
+            <l>Wee'l call them fools, that fear, or love to dye.</l>
+            <closer>
+               <signed>John Sweeting.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <l>We need no Spur, or mettl'd Horſe,</l>
+            <l>Nature alone runs full Carreare,</l>
+            <l>Why ſuch prepoſterous haſte Dire <hi>Mors?</hi>
+            </l>
+            <l>Too ſoon w'are flying.</l>
+            <l>Too ſoon I ſay, 'cauſe <hi>Herwin's</hi> gone:</l>
+            <l>Th' hadſt had ſome Pity left I'd ſweare</l>
+            <l>If Him thou hadſt Repreiv'd alone,</l>
+            <l>So ſoon from Dying.</l>
+            <l>But ſince, alas! thou haſt bereft us</l>
+            <l>Of him, the Non ſuch of His age,</l>
+            <l>Since Hee alas, alas! hath left us,</l>
+            <l>
+               <hi>Mors</hi> we Defie thee:</l>
+            <l>Th'aſt but advanc'd him in His Way,</l>
+            <l>Where now Hee Reſts above thy rage:</l>
+            <l>With Him t'aſſociate, though to Day,</l>
+            <l>Oh who would flye thee?</l>
+            <l>Thy deadly ſpight can hurt no more,</l>
+            <l>Then He the wandring Wretch that brings,</l>
+            <l>T'a Land of Reſt from Travells ſore.</l>
+            <l>Can'ſt thou deny it?</l>
+            <l>We're Pilgrimes Here, we claim no right,</l>
+            <l>To theſe Terreſtriall fading things:</l>
+            <l>Wee'l follow <hi>Herrewyn</hi> through thy Night,</l>
+            <l>T'a Morn of Quiet.</l>
+            <closer>
+               <signed>I.G.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>To Mr. <hi>Herrewyns</hi> Friends.</head>
+            <l>Why doe you look ſo ſad? your friend, you ſay,</l>
+            <l>Is gone to Heaven: had H'gone th' other way,</l>
+            <l>Or been ſequeſtred 'twere cauſe of ſorrow;</l>
+            <l>Beſides to dye, may be your caſe to morrow.</l>
+            <closer>
+               <signed>I. S.</signed>
+            </closer>
+            <pb facs="tcp:184591:2" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
